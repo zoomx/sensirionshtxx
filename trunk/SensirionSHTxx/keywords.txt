@@ -1,0 +1,33 @@
+#######################################
+# Syntax Coloring Map For SensirionSHTxx
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SensirionSHTxx		KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin			KEYWORD2
+setTimerInterval	KEYWORD2
+enableTimer		KEYWORD2
+disableTimer		KEYWORD2
+resetTimer		KEYWORD2
+check			KEYWORD2
+read			KEYWORD2
+reset			KEYWORD2
+heaterOn		KEYWORD2
+heaterOff		KEYWORD2
+reloadEnable		KEYWORD2
+reloadDisable		KEYWORD2
+getStatusRegister	KEYWORD2
+convertCtoF		KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
